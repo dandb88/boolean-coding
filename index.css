@@ -1,0 +1,108 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    background-image: url(img/background.jpg);
+    background-size: cover;
+}
+
+
+
+#container {
+
+    width: 1000px;
+    height: 700px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 2%;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 100px;
+}
+
+#logo-container{
+    width: 200px;
+    margin: auto;
+}
+
+#logo{
+    margin-top: 60px;
+    width:200px;
+}
+#booleaners-div{
+    width: 400px;
+    margin: auto;
+    padding: 9px;
+}
+
+#booleaners-text{
+    font-size: 26px;
+    color: #00DD00;
+    font-family: 'Indie Flower', cursive;
+
+
+}
+#button-bar{
+    width: 800px;
+    height: 35px;
+    background-color:#00DD00;
+    margin: auto;
+}
+
+#button-container {
+    width: 260px;
+    margin: auto;
+}
+.button{ 
+    font-size: 10px;
+    background-color: #e4dfda;
+    margin-top: 10px;
+
+}
+
+#product-container{
+
+    width: 300px;
+    height: 500px;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.product-title{
+
+    font-size: 22px;
+    color: #FDFFFE;
+    font-family: 'Indie Flower', cursive;
+
+}
+.product-position {
+    display: block;
+    font-size: 15px;
+    color: #BAB293;
+    font-family:'Lato', sans-serif;
+}
+
+#charge-1{
+    width: 280px;
+    height: 24px;
+    background-color: rgb(255, 191, 73);
+}
+#charge-2{
+    width: 470px;
+    height: 24px;
+    background-color: #00DD00;
+   
+}
+#charge-3{
+    width: 115px;
+    height: 24px;
+    background-color: #fc0580;
+   
+}
+.product-section{
+
+    margin-top:27px;
+}
+
+.arrows{
+    width: 15px;
+    color: white;
+}
